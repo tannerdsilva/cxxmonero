@@ -1,0 +1,6 @@
+[submodule "monero"]
+	path = monero
+	url = https://github.com/monero-project/monero.git
+[submodule "serialization"]
+	path = serialization
+	url = https://github.com/boostorg/serialization.git

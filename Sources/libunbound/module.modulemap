@@ -1,0 +1,5 @@
+module libunbound [system] {
+    header "/opt/homebrew/opt/unbound/include/unbound.h"
+    link "unbound"
+    export *
+}

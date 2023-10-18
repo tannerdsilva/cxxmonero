@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cxxboost",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tannerdsilva/cxxboost.git",
+      "state" : {
+        "revision" : "7aeb54b65dbd40780db32fdc0a70da91ff98d2a4",
+        "version" : "1.82.0"
+      }
+    }
+  ],
+  "version" : 2
+}

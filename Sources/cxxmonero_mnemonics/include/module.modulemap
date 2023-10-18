@@ -1,0 +1,4 @@
+module cxxmonero_mnemonics {
+	header "mnemonics"
+	export *
+}

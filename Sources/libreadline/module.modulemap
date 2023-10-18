@@ -1,0 +1,6 @@
+module libreadline [system] {
+	header "/opt/homebrew/opt/readline/readline.h"
+	header "/opt/homebrew/opt/readline/history.h"
+	link "readline"
+	export *
+}

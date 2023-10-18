@@ -1,0 +1,4 @@
+module cxxmonero_crypto {
+	header "crypto/*"
+	export *
+}

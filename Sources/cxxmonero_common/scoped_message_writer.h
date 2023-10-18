@@ -1,0 +1,1 @@
+../../monero/src/common/scoped_message_writer.h

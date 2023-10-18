@@ -1,0 +1,7 @@
+module libopenssl [system] {
+	header "/opt/homebrew/opt/openssl/include/openssl/ssl.h"
+	header "/opt/homebrew/opt/openssl/include/openssl/err.h"
+	link "ssl"
+	link "crypto"
+	export *
+}
